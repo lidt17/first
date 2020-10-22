@@ -12,9 +12,9 @@ public class Main {
         System.out.println("age:"+stu.getAge());
         
         Teacher tc = new Teacher("t001","李云","chinese");
-        System.out.println("teacher id:"+tc.getId);
-        System.out.println("teacher name:"+tc.getName);
-        System.out.println("teacher subject:"+tc.getSubject);
+        System.out.println("teacher id:"+tc.getId());
+        System.out.println("teacher name:"+tc.getName());
+        System.out.println("teacher subject:"+tc.getSubject());
         
     }
 }
