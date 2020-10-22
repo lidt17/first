@@ -16,8 +16,8 @@ public class Main {
         System.out.println("teacher name:"+tc.getName());
         System.out.println("teacher subject:"+tc.getSubject());
 
-        System.out.println("---这是一行代码-   --");
+        System.out.println("---这是一行代码---");
         System.out.println("新增加一行");
-
+        System.out.println("再新增加一行");
     }
 }
