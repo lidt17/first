@@ -20,6 +20,6 @@ public class Main {
         System.out.println("新增加一行");
         System.out.println("再新增加一行");
         System.out.println("AAAAAAAAAA");
-
+        System.out.println("BBBBBBBBBB");
     }
 }
