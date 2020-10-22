@@ -15,6 +15,9 @@ public class Main {
         System.out.println("teacher id:"+tc.getId());
         System.out.println("teacher name:"+tc.getName());
         System.out.println("teacher subject:"+tc.getSubject());
-        
+
+        System.out.println("---这是一行无效代码---");
+
+
     }
 }
